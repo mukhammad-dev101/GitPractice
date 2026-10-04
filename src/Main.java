@@ -1,5 +1,5 @@
 public class Main {
     static void main() {
-        System.out.println("Hello Git! Version 2");
+        System.out.println("Hello Git! Version 3");
     }
 }
